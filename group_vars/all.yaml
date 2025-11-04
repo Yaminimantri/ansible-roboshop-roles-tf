@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.yaminiaws.fun
+REDIS_HOST: redis.yaminiaws.fun
+CATALOGUE_HOST: catalogue.yaminiaws.fun
+CART_HOST: cart.yaminiaws.fun
+USER_HOST: user.yaminiaws.fun
+RABBITMQ_HOST: rabbitmq.yaminiaws.fun
+MYSQL_HOST: mysql.yaminiaws.fun
+SHIPPING_HOST: shipping.yaminiaws.fun
+PAYMENT_HOST: payment.yaminiaws.fun
