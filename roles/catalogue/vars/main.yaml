@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.yaminiaws.fun
+MONGODB_HOST: mongodb-{{ env }}.yaminiaws.fun
